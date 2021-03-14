@@ -20,6 +20,7 @@
 </head>
 
 <body>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat in odit fugiat cum maiores, recusandae saepe dolorum quod aut iste obcaecati aspernatur voluptate aperiam optio dolor. Quam ipsum saepe quaerat!
     <!-- <h1>Hello, world!</h1> -->
     <!-- Image and text -->
     <nav class="navbar navbar-light bg-light">
